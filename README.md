@@ -1,4 +1,4 @@
-### AlgerianForestFire
+### Algerian Forest Fire
 
 ### Software and Tools Required
 
