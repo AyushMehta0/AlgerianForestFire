@@ -11,3 +11,10 @@ Create a new environment
 python -m venv env
 .\env\Scripts\activate
 ```
+
+Install required packages
+
+```
+pip install -r requirements.txt
+```
+
